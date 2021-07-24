@@ -1,0 +1,14 @@
+package cooperation;
+
+public class Subway {
+
+	public Subway(int i) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public void take(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

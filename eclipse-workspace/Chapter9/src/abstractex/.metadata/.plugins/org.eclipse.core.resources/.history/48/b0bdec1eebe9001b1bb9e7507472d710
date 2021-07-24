@@ -1,0 +1,16 @@
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.*;
+
+public class IndepClassListender extends JFrame {
+  /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+public IndepClassListener() {
+	public static void main(String[] args) {
+		
+
+	}
+
+}

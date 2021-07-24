@@ -1,0 +1,23 @@
+package thisex;
+
+class person {
+ String name;
+ int age;
+ 
+ person( ) {
+  this("이름없음", 1);
+  
+ }
+
+public person(String string, int i) {
+ 
+ Person(string name, int age);
+   this.name = name;
+   
+}
+
+private void Person(String string, int age2) {
+	// TODO Auto-generated method stub
+	
+}
+ㅣㅣ
